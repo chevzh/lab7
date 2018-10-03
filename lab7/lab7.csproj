@@ -43,8 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Bouqet.cs" />
+    <Compile Include="BouqetController.cs" />
+    <Compile Include="Bush.cs" />
+    <Compile Include="Cactus.cs" />
+    <Compile Include="Exceptions.cs" />
+    <Compile Include="Flower.cs" />
+    <Compile Include="Gladiolus.cs" />
+    <Compile Include="Paper.cs" />
+    <Compile Include="Plant.cs" />
+    <Compile Include="Printer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rose.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
